@@ -1,4 +1,4 @@
-baseURL = 'https://Svyatoslaw-Smirnow.github.io/room/'
+baseURL = ''
 languageCode = 'en-us'
 title = 'SSV'
 theme = "hugo-theme-terminal"
